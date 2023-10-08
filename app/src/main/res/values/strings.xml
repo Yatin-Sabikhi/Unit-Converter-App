@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="units">
+        <item>Gram(g)</item>
+        <item>Kilogram(Kg)</item>
+        <item>Milligram(mg)</item>
+        <item>Ounce(oz)</item>
+        <item>Pound(lb)</item>
+    </string-array>
+</resources>
